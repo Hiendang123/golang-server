@@ -7,3 +7,4 @@ type TaskRepository interface {
 	Update(task *Task) error
 	DeleteAll() error
 }
+	
